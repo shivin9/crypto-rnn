@@ -1,6 +1,6 @@
 `crypto-rnn`: Learning the Enigma with Recurrent Neural Networks
 =======
-See [paper](https://arxiv.org/abs/1708.07576) and [blog post](https://greydanus.github.io/2017/01/07/enigma-rnn/)
+See [paper](https://ieeexplore.ieee.org/abstract/document/8588788).
 
 ![concept-small](static/concept-small.png)
 
